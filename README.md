@@ -8,3 +8,4 @@ I plan to work on this gradually over time.
 - Hide the dock when the mouse is not near, show it when the mouse gets near. It should only show on the monitor where the mouse is, not on all monitors.
 - Ability to pin icons to the dock and launch apps by clicking their icon.
 - Indicator under each icon showing which apps are running.
+- A menu to browse installed applications, with the ability to right-click on applications and pin them to the dock.
