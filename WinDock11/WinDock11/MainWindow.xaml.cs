@@ -13,7 +13,7 @@ namespace WinDock11
 
             ViewModel = new MainViewModel();
 
-            DataContext = ViewModel;
+            RootGrid.DataContext = ViewModel;
         }
     }
 }
