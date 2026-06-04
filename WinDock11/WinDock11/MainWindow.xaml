@@ -14,7 +14,7 @@
     </Window.SystemBackdrop>
 
     <Grid>
-        <ListView ItemSource="{Binding DockItems}">
+        <ListView ItemsSource="{Binding DockItems}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <TextBlock Text="{Binding Name}" />

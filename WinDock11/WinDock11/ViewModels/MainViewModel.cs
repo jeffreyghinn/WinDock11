@@ -19,7 +19,7 @@ public class MainViewModel
         DockItems.Add(new DockItem
         {
             Name = "Explorer",
-            Path = "explorer.exe:,
+            Path = "explorer.exe",
             IsPinned = true
         });
 
