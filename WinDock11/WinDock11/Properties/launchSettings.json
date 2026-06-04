@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinDock11 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinDock11 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
