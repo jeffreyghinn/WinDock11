@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinDock11")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d9abc6f580c455fef5ee29af7edabdad1502d8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+432310559702491cf5bf00d1124e58ed7e60f022")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinDock11")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinDock11")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
